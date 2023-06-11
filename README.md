@@ -1,6 +1,6 @@
 # README
 
-The Ruby's version of this repo is 3.0.0 and the Ruby on Rails version is 7.0.4
+Simple Ruby Exercise
 
 ## Version 📌
 
