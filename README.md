@@ -1,7 +1,5 @@
 # README
 
-Simple Ruby Exercise
-
 ## Version 📌
 
 Ruby version: 3.0.0
