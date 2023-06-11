@@ -3,9 +3,7 @@
 The Ruby's version of this repo is 3.0.0 and the Ruby on Rails version is 7.0.4
 
 <h3>Install depedencies</h3>
-```
-bundle install
-```
+```bundle install```
 
 <h3>Run migrations</h3>
 ```rails db:migrate```
