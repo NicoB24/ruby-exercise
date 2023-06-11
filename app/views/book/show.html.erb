@@ -1,0 +1,3 @@
+<% @book.reviews.each do |review| %>
+    <p> <%= Sanitize.fragment(review.content) %> by <%= review.user.full_name %> <p/>
+<% end %>
