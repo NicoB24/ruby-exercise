@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Ruby's version of this repo is 3.0.0 and the Ruby on Rails version is 7.0.4
 
-Things you may want to cover:
+<h3>Install depedencies</h3>
+```bundle install```
 
-* Ruby version
+<h3>Run migrations</h3>
+```rails db:migrate```
 
-* System dependencies
+<h3>Seed the db</h3>
+```rails db:seed```
 
-* Configuration
+<h3>Run tests</h3>
+```bundle exec spec```
 
-* Database creation
+<h3>Run server</h3>
+```rails s```
 
-* Database initialization
+the urls are:
+```http://localhost:3000/users/:id```
+```http://localhost:3000/books/:id```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
