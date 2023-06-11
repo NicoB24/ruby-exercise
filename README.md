@@ -2,24 +2,32 @@
 
 The Ruby's version of this repo is 3.0.0 and the Ruby on Rails version is 7.0.4
 
-<h3>Install depedencies</h3>
-```
+## Version 📌
+
+Ruby version: 3.0.0
+Ruby On Rails version: 7.0.4
+
+
+## Installation ⚙️
+_Install the libraries running this:_
 bundle install
-```
 
-<h3>Run migrations</h3>
-```rails db:migrate```
+_Run the migrations executing this:_
+rails db:migrate
 
-<h3>Seed the db</h3>
-```rails db:seed```
+_Seed the db running this:_
+rails db:seed
 
-<h3>Run tests</h3>
-```bundle exec spec```
 
-<h3>Run server</h3>
-```rails s```
+## Run 🚀
+_To run the app, just execute:_
+rails s
 
 the urls are:
 ```http://localhost:3000/users/:id```
 ```http://localhost:3000/books/:id```
+
+_To run the tests, just execute:_
+bundle exec spec
+
 
