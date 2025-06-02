@@ -18,7 +18,7 @@ rails db:seed
 
 
 ## Run 🚀
-_To run the app, just execute:_
+_To run the app, execute:_
 rails s
 
 the urls are:
